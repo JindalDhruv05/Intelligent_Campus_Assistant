@@ -1,6 +1,10 @@
 # Intelligent Campus Assistant (RAG) — SVNIT Surat
 
-> **Course:** Introduction to LLMs · B.Tech AI Sem 7 · SVNIT Surat · 2026
+> **Course:** Introduction to LLMs · B.Tech AI Sem 7 · SVNIT Surat · 2026  
+> **Team Members:**
+> - Dhruv Jindal (U23AI083)
+> - Mohit Agrawal (U23AI117)
+> - Devansh Upadhyay (U23AI104)
 
 LLM-powered campus assistant for B.Tech AI students. Answers grounded in
 official SVNIT documents (Academic Regulations, Curriculum, Honors Scheme).
