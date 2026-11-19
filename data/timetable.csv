@@ -1,0 +1,16 @@
+course_code,course_name,day,start,end,room
+AI401,Intelligent Multiagent and Expert Systems,Mon,09:00,10:00,LH-1
+AI463,Introduction to Large Language Models,Mon,10:00,11:00,LH-1
+AI465,Agentic AI,Mon,11:00,12:00,LH-2
+AI451,Project Phase I,Tue,09:00,10:00,PG-Lab
+AI463,Introduction to Large Language Models,Tue,10:00,11:00,LH-1
+AI401,Intelligent Multiagent and Expert Systems,Tue,14:00,15:00,LH-3
+AI465,Agentic AI,Wed,09:00,10:00,LH-2
+AI463,Introduction to Large Language Models (Lab),Wed,10:00,12:00,AI-Lab
+AI401,Intelligent Multiagent and Expert Systems (Lab),Wed,14:00,16:00,AI-Lab
+AI465,Agentic AI,Thu,10:00,11:00,LH-1
+AI451,Project Phase I,Thu,14:00,16:00,PG-Lab
+AI354,Responsible AI,Fri,09:00,10:00,LH-2
+AI463,Introduction to Large Language Models,Fri,10:00,11:00,LH-1
+AI401,Intelligent Multiagent and Expert Systems,Fri,11:00,12:00,LH-3
+AI354,Responsible AI,Fri,14:00,16:00,AI-Lab

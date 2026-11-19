@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# FAISS index (large binary — regenerate with: python ingest.py)
+store/
+
+# Crawled web documents (large, regenerate with: python crawler.py)
+data/docs/web/
+
+# Source PDFs (large, not redistributable — add manually)
+data/docs/*.pdf
+
+# Zip archives
+*.zip
+
+# Evaluation results (keep questions.csv, ignore result CSVs)
+eval/results*.csv
+
+# Misc
+evaluate_output.txt
+probe_answers.txt
+ppt_briefing.md
+store_backup/
+.DS_Store
+Thumbs.db
