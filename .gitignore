@@ -25,10 +25,13 @@ data/docs/*.pdf
 # Evaluation results (keep questions.csv, ignore result CSVs)
 eval/results*.csv
 
-# Misc
+# Team/Internal working documents
+PROJECT_REFERENCE.md
+ppt_briefing.md
 evaluate_output.txt
 probe_answers.txt
-ppt_briefing.md
 store_backup/
+
+# OS specific
 .DS_Store
 Thumbs.db
